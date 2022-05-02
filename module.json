@@ -4,7 +4,6 @@
     "description": "A simple module which records credits in and out.",
     "version": "1.0.0",
     "minimumCoreVersion": "0.7.9",
-    "minimumSystemVersion": "0.77.23",
     "authors": "Eric Rosas",
     "scripts": [
         "scripts/ledger.js"
