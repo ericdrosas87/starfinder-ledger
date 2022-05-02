@@ -12,5 +12,8 @@
     "styles": [
         "css/ledger.css"
     ],
-    "system": ["sfrpg"]
+    "system": [
+        "sfrpg"
+    ],
+    "download": "https://github.com/ericdrosas87/starfinder-ledger/archive/refs/tags/v0.0.1.zip"
 }
