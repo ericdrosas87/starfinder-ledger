@@ -1,0 +1,46 @@
+.pfledger-table, .pfledger-td {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  width: 98%;
+  align-content: center;
+  text-align: center;
+  font-size: 11px;
+  font-style: oblique;
+  font-family: serif;
+  padding: 4px;
+}
+
+.pfledger-th{
+  font-style: normal;
+  font-size: 10px
+}
+
+.pfledger-desc-box
+{
+  min-width: 457px;
+  content: "\f58e";
+  font-weight: 900;
+  font-family: "Font Awesome 5 Free";
+  font-size: 12px;
+  font-variant: small-caps;
+  color: #4b4a44;
+  margin: 0;
+}
+
+.pfledger-button
+{
+  font-size: 12px;
+  line-height: 12px;
+  height: auto;
+  width: auto;
+  margin: 0, 8px;
+  content: "\f58e";
+  font-weight: 900;
+  font-family: "Font Awesome 5 Free";
+}
+
+.pfledger-spacer
+{
+  margin: 0 8px;
+  flex: 0 0 20px;
+}
