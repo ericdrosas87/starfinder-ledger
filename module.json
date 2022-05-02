@@ -3,25 +3,14 @@
     "title": "Starfinder Ledger",
     "description": "A simple module which records credits in and out.",
     "version": "1.0.0",
-    "manifestPlusVersion": "1.1.0",
     "minimumCoreVersion": "0.7.9",
-    "compatibleCoreVersion": "9",
     "minimumSystemVersion": "0.77.23",
-    "authors": [
-        {
-            "name": "Eric Rosas",
-            "url": "https://github.com/ericdrosas87/"        }
-    ],
-    "dependencies": [],
-    "conflicts": [],
-    "esmodules": [],
+    "authors": "Eric Rosas",
     "scripts": [
         "scripts/ledger.js"
     ],
     "styles": [
         "css/ledger.css"
     ],
-    "languages": [],
-    "packs": [],
     "system": ["sfrpg"]
 }
