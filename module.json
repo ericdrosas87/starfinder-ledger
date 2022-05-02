@@ -1,9 +1,10 @@
 {
+    "manifestPlusVersion": "1.1.0",
     "name": "StarfinderLedger",
     "title": "Starfinder Ledger",
     "description": "A simple module which records credits in and out.",
-    "version": "1.0.0",
-    "minimumCoreVersion": "0.7.9",
+    "version": "0.0.1",
+    "minimumCoreVersion": "9",
     "authors": "Eric Rosas",
     "scripts": [
         "scripts/ledger.js"
