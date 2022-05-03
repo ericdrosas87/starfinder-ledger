@@ -1,6 +1,3 @@
-console.log('Ledger ! Im running!');
-alert("rosas!");
-
 //Main class
 class Ledger
 {
@@ -301,10 +298,10 @@ function getGMLedger_Ext()
 
 function GMLedgerButton(sheet)
 {
-    if(!game.user.isGM)
-    {
-        return;
-    }
+    // if(!game.user.isGM)
+    // {
+    //     return;
+    // }
 
     const openLedgerTooltip = 'Opens the combined player ledgers';
     const ledgerButtonContents = 'Open Ledgers...';
